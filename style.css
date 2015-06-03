@@ -16,8 +16,6 @@
 
 .calendar a:active {
   opacity: .75;
-  -ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=75);
-  filter: alpha(opacity=75)
 }
 
 .calendar-table {
