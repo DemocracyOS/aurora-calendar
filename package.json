@@ -1,12 +1,12 @@
 {
-  "name": "aurora-calendar",
-  "repo": "slifszyc/aurora-calendar",
+  "name": "democracyos-aurora-calendar",
+  "repo": "DemocracyOS/aurora-calendar",
   "description": "Aurora calendar theme",
   "version": "1.0.0",
   "keywords": ["aurora", "theme", "calendar"],
   "dependencies": {},
   "development": {
-    "calendar-component": "git://github.com/slifszyc/calendar#0.1.1"
+    "democracyos-calendar": "^0.3.0"
   },
   "style": "style.css"
 }
